@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="view.GraphicUI">
+  <grid id="97bfe" binding="basic_panel" layout-manager="GridLayoutManager" row-count="1" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="3" vgap="3">
+    <margin top="3" left="3" bottom="3" right="3"/>
+    <constraints>
+      <xy x="36" y="40" width="469" height="355"/>
+    </constraints>
+    <properties>
+      <background color="-12828863"/>
+      <enabled value="true"/>
+    </properties>
+    <clientProperties>
+      <html.disable class="java.lang.Boolean" value="true"/>
+    </clientProperties>
+    <border type="line" title="GUI">
+      <color color="-4473925"/>
+    </border>
+    <children/>
+  </grid>
+</form>
